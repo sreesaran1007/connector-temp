@@ -1,0 +1,25 @@
+{
+  "name": "Connector 4",
+  "note": "Derived automatically from the photo by the model. Edit the positions if it got something wrong. If the photo is replaced, this file is read again from the new photo (the old one is kept as .json.old). Delete this file to derive it again.",
+  "photo_fingerprint": "65f4f4e4224d0f12",
+  "positions": [
+    [
+      "female connector sm"
+    ],
+    [
+      "male connector mid"
+    ],
+    [
+      "male connector sm"
+    ],
+    [
+      "male connector sm"
+    ],
+    [
+      "female connector"
+    ],
+    [
+      "female pin"
+    ]
+  ]
+}
